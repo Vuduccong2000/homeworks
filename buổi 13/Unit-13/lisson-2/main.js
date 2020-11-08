@@ -6,4 +6,3 @@ const handleOnMouseClick = event => {
       currentEle.style.background = 'red'
     }
   }
-  
